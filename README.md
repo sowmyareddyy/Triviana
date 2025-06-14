@@ -42,10 +42,10 @@ cd triviana
 
 ### Open in Browser
 
-Just double-click `foodhomepage.html` or use:
+Just double-click `index.html` or use:
 
 ```bash
-open foodhomepage.html
+open index.html
 ```
 
 ---
@@ -54,7 +54,7 @@ open foodhomepage.html
 
 ```
 triviana/
-├── foodhomepage.html
+├── index.html
 ├── style.css
 ├── /assets
 │   ├── images
