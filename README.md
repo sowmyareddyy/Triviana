@@ -83,6 +83,6 @@ Undergraduate | Frontend Developer | Travel & Design Enthusiast
 ## 📣 Feedback
 
 Have suggestions or want to collaborate?  
-Feel free to reach out via [LinkedIn]((https://www.linkedin.com/in/sowmyareddyvangooru/)) or open an issue on the repo.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sowmyareddyvangooru/) or open an issue on the repo.
 
 ---
